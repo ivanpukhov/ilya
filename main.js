@@ -14,8 +14,6 @@ const gap = (number, after, end) => {
     }
 }
 
-
-
 const maxOfArray = (arr) => {
     return Math.max.apply(null, arr)
 }
