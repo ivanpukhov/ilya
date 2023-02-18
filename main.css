@@ -1,0 +1,13 @@
+#matrix {
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+}
+
+.matrix__item {
+    width: 96px;
+    height: 96px;
+}
